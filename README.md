@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hanynathan
-- 👀 I’m interested in Java, spring boot, Reactjs
+- 👀 I’m interested in Java, spring boot, Reactjs, JavaScript, Typescript and web Development
 - 🌱 I’m currently learning data analysis with python and pandas
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
